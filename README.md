@@ -1,7 +1,3 @@
-Here’s a sample README file for the **`epicchain-oracle-adapters`** repository:
-
----
-
 # EpicChain Oracle Adapters
 
 ## Description
@@ -15,15 +11,6 @@ Here’s a sample README file for the **`epicchain-oracle-adapters`** repository
 - **Extensibility**: Easily extendable to support new data sources and oracle services.
 - **Documentation**: Comprehensive guides for setting up and using each adapter.
 
-### Adding New Adapters
-
-To add a new adapter, follow these steps:
-
-1. **Create a new directory** under `src/adapters/` for the adapter.
-2. **Implement the adapter** using the provided base class and interfaces.
-3. **Update the configuration** files to include the new adapter.
-4. **Write tests** to ensure the adapter works correctly.
-5. **Document the adapter** in the `docs/` directory.
 
 ### Testing
 
